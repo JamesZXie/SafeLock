@@ -1,0 +1,21 @@
+*{
+	font-family: "Open Sans", sans-serif;
+	padding: 0;
+}
+
+body {
+  width: 400px;
+  height: 400px;
+  padding: 1em;
+  size: 10em;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.root {
+	height: 400px;
+	text-align: center;
+	size: 5em;
+}
